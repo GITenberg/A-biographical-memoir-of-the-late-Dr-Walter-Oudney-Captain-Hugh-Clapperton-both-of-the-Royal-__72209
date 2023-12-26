@@ -1,0 +1,33 @@
+_repo: A-biographical-memoir-of-the-late-Dr-Walter-Oudney-Captain-Hugh-Clapperton-both-of-the-Royal-__72209
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nelson, Thomas
+    gutenberg_agent_id: '56592'
+    url: http://www.gutenberg.org/2009/agents/56592
+description: ''
+gutenberg_issued: '2023-11-23'
+identifiers:
+  gutenberg: '72209'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/inu.30000115359352
+pgterms:marc905: 20231106230447nelson
+pgterms:marc906: '1830'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the HathiTrust Digital Library)
+publication_note: '  $aEdinburgh :$bWaugh and Innes, $c1830.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel'
+- !lcsh 'Oudney, Walter, 1790-1824'
+- !lcsh 'Clapperton, Hugh, 1788-1827'
+- !lcsh 'Laing, Alexander Gordon, 1794-1826'
+- !lcc 'DT'
+- GITenberg
+title: A biographical memoir of the late Dr. Walter Oudney, Captain Hugh Clapperton,
+  both of the Royal Navy, and Major Alex. Gordon Laing, all of whom died amid their
+  active and enterprising endeavours to explore the interior of Africa
+url: http://www.gutenberg.org/ebooks/72209
