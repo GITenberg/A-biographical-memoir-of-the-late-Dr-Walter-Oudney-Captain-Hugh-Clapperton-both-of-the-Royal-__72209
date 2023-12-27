@@ -1,11 +1,16 @@
 _repo: A-biographical-memoir-of-the-late-Dr-Walter-Oudney-Captain-Hugh-Clapperton-both-of-the-Royal-__72209
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72209-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, Thomas
     gutenberg_agent_id: '56592'
     url: http://www.gutenberg.org/2009/agents/56592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72209#A-biographical-memoir-of-the-late-Dr-Walter-Oudney-Captain-Hugh-Clapperton-both-of-the-Royal-_
 gutenberg_issued: '2023-11-23'
 identifiers:
   gutenberg: '72209'
